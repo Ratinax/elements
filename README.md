@@ -68,7 +68,24 @@ _Installations needed to be done._
 To execute : 
 ```sh
 python3 programme_principal.py
-``` 
+```
+
+Use 'ajout.py' to add other elements to the game:
+do:
+```sh
+python3 ajout.py
+```
+then follow instructions by giving the name of your new element : 
+```
+nom nouvel : name_of_your_element
+```
+```
+element pere: : name_of_the_first_element_to_create_yours
+```
+```
+element pere: : name_of_the_second_element_to_create_yours
+```
+and create an image named name_of_your_element.jpg in images folder
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
